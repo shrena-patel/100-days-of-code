@@ -12,6 +12,31 @@
 - I have build projects in React before, so it was useful to see the similarities between React and Vue.
 - Vue also seems similar to Handlebars in the use of views and layouts.
 
-**Link to work:** [Todo list app](https://github.com/shrena-patel/vue-todo)
+**Link to work:** [Vue todo list app](https://github.com/shrena-patel/vue-todo)
+
+---
+
+
+### Day 0: Tuesday 3 November 2020
+#### Vue.js Skillshare course
+
+**Today's Progress**: Learning more about Vue.js..
+
+**Thoughts:** 
+
+***Directives***
+
+- Directives are Vue-specific syntax and go where HTML attributes (such as `href` or `src`) go. They always start with a '`v-`' prefic and the value of a directive is evaluated as JavaScript.
+- Directive can take arguments by adding a colon after the directive name, such as `<a v-bind:href="url">`, which dynamically binds data to a regular HTML attribute.
+- Using the `v-for` directive, you can loop through an array in a similar way to how you would in a for loop or map function.
+
+***Methods***
+
+- Methods are held in an object as a property of the vue instance, exactly as the `data` object is.
+- Instead of holdings strings or arrays like the data object does, the methods object holds functions.
+- You can then use the `v-on` directive with methods, which allows you to set event listeners on HTML elements.
+- Most commonly used as `<button v-on:click="name-of-function-declared-in-methods-object">`.
+
+**Link to work:** [Vue todo list app](https://github.com/shrena-patel/vue-todo)
 
 
