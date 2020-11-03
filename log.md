@@ -29,6 +29,7 @@
 - Directives are Vue-specific syntax and go where HTML attributes (such as `href` or `src`) go. They always start with a '`v-`' prefic and the value of a directive is evaluated as JavaScript.
 - Directive can take arguments by adding a colon after the directive name, such as `<a v-bind:href="url">`, which dynamically binds data to a regular HTML attribute.
 - Using the `v-for` directive, you can loop through an array in a similar way to how you would in a for loop or map function.
+- `v-model` directive is used for two-way data binding on any user input HTML element - text input, radio buttons etc. When data in such an element that has a v-model changes, it updates the data property it is tied to.
 
 ***Methods***
 
@@ -37,6 +38,12 @@
 - You can then use the `v-on` directive with methods, which allows you to set event listeners on HTML elements.
 - Most commonly used as `<button v-on:click="name-of-function-declared-in-methods-object">`.
 
-**Link to work:** [Vue todo list app](https://github.com/shrena-patel/vue-todo)
+***Computed properties***
+
+- Properties held in a "computed" object are different from a data object.
+- Similar to methods, properties inside the computed object have values of a function.
+- Whenever the values within the computed object are updated, Vue updates all instances of that value. 
+
+**Link to work:** [Simple vue practice](https://codepen.io/shrepat/pen/OJXELNX?editors=1111)
 
 
