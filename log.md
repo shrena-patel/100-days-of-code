@@ -16,7 +16,6 @@
 
 ---
 
-
 ### Day 2: Tuesday 3 November 2020
 #### Vue.js Skillshare course
 
@@ -45,6 +44,8 @@
 - Whenever the values within the computed object are updated, Vue updates all instances of that value. 
 
 **Link to work:** [Simple vue practice](https://codepen.io/shrepat/pen/OJXELNX?editors=1111)
+
+--- 
 
 ### Day 3: Wednesday 4 November 2020
 #### Working on personal project
