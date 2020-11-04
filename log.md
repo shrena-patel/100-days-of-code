@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: Monday 2 November 2020
+### Day 1: Monday 2 November 2020
 #### Learning Vue.js
 
 **Today's Progress**: Set up a Vue project, learn about Vue components, events and vue router.
@@ -17,7 +17,7 @@
 ---
 
 
-### Day 0: Tuesday 3 November 2020
+### Day 2: Tuesday 3 November 2020
 #### Vue.js Skillshare course
 
 **Today's Progress**: Learning more about Vue.js..
@@ -45,5 +45,17 @@
 - Whenever the values within the computed object are updated, Vue updates all instances of that value. 
 
 **Link to work:** [Simple vue practice](https://codepen.io/shrepat/pen/OJXELNX?editors=1111)
+
+### Day 3: Wednesday 4 November 2020
+#### Working on personal project
+
+**Today's Progress**: Used dbdiagram.io to map out db tables, and set up migrations and seeds.
+
+**Thoughts:** I worked on my personal project ConnectR - an app to connect recruiters and candidates in a simple format. I had put off setting up the database for it but of course it was much simpler than I thought it would be.
+
+**Link to work:** [ConnectR app](https://github.com/shrena-patel/ConnectR)
+
+
+
 
 
