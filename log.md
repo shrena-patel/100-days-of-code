@@ -56,7 +56,26 @@
 
 **Link to work:** [ConnectR app](https://github.com/shrena-patel/ConnectR)
 
+---
 
+### Day 4: Thursday 5 November 2020
+#### Working on personal project
 
+**Today's Progress**: Set up database functions and routes, and tested in postman. Basic component structure set up.
+
+**Thoughts:** I am working on getting the bones of all the pages set up, then I will start working on the styling and improving functionality. Even though this is just practising things I already know, it is good to be working on something.
+
+**Link to work:** [ConnectR app](https://github.com/shrena-patel/ConnectR)
+
+---
+
+### Day 5: Friday 6 November 2020
+#### Working on personal project
+
+**Today's Progress**: Worked on Home component, as well as Emloyers and Candidates component, and getting them all to link up.
+
+**Thoughts:** 
+
+**Link to work:** [ConnectR app](https://github.com/shrena-patel/ConnectR)
 
 
