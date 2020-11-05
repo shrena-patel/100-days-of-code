@@ -72,9 +72,9 @@
 ### Day 5: Friday 6 November 2020
 #### Working on personal project
 
-**Today's Progress**: Worked on Home component, as well as Emloyers and Candidates component, and getting them all to link up.
+**Today's Progress**: Worked on Home component, as well as Employers and Candidates component, and getting them all to link up. Setup the card layout that will house the employers' and candidates' details.
 
-**Thoughts:** 
+**Thoughts:** Next I need get the data from the database displaying on the profile pages.
 
 **Link to work:** [ConnectR app](https://github.com/shrena-patel/ConnectR)
 
