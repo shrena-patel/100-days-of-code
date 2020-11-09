@@ -78,4 +78,13 @@
 
 **Link to work:** [ConnectR app](https://github.com/shrena-patel/ConnectR)
 
+---
 
+### Day 6: Monday 9 November 2020
+#### Working on personal project
+
+**Today's Progress**: Worked some issues that were stumping me on Friday - got the data from database to display on front end.
+
+**Thoughts:** Taking breaks when you're stuck on a problem is very important - it allows you to return to the problem with a fresh perspective, which will ultimately help you in solving the issue.
+
+**Link to work:** [ConnectR app](https://github.com/shrena-patel/ConnectR)
