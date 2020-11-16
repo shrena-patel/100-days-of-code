@@ -89,6 +89,7 @@
 
 **Link to work:** [ConnectR app](https://github.com/shrena-patel/ConnectR)
 
+---
 
 ### Day 7: Tuesday 10 November 2020
 #### Working on personal project
@@ -99,12 +100,24 @@
 
 **Link to work:** [ConnectR app](https://github.com/shrena-patel/ConnectR)
 
+--- 
 
 ### Day 8: Wednesday 11 November 2020
 #### Working on personal project
 
-**Today's Progress**: Added buttons and styling to employer card.
+**Today's Progress**: Added buttons and styling to candidate card.
 
 **Thoughts:** Still need to work out how I want to layout the information and how the functionality will work for switching between employers/candidates.
+
+**Link to work:** [ConnectR app](https://github.com/shrena-patel/ConnectR)
+
+---
+
+### Day 9: Monday 16 November 2020
+#### Working on personal project
+
+**Today's Progress**: Map function working to bring through data from database.
+
+**Thoughts:** Eventually I want the user to be able to swipe or click next to view the next candidate, but this layout will work for now.
 
 **Link to work:** [ConnectR app](https://github.com/shrena-patel/ConnectR)
