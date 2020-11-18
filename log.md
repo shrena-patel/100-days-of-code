@@ -121,3 +121,14 @@
 **Thoughts:** Eventually I want the user to be able to swipe or click next to view the next candidate, but this layout will work for now.
 
 **Link to work:** [ConnectR app](https://github.com/shrena-patel/ConnectR)
+
+---
+
+### Day 10: Wednesday 18 November 2020
+#### Working on personal project
+
+**Today's Progress**: Employer data showing in the front end.
+
+**Thoughts:** Next I will add an 'add' function, and edit the styling.
+
+**Link to work:** [ConnectR app](https://github.com/shrena-patel/ConnectR)
