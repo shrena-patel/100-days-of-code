@@ -132,3 +132,25 @@
 **Thoughts:** Next I will add an 'add' function, and edit the styling.
 
 **Link to work:** [ConnectR app](https://github.com/shrena-patel/ConnectR)
+
+---
+
+### Day 11: Thursday 19 November 2020
+#### Working on personal portfolio
+
+**Today's Progress**: Set up basic portfolio page using React.
+
+**Thoughts:** This will be a place to show my projects, as well as my CV.
+
+**Link to work:** [Portfolio page](https://github.com/shrena-patel/shrena-patel-portfolio)
+
+---
+
+### Day 12: Friday 20 November 2020
+#### Working on personal porfolio
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** [Portfolio page](https://github.com/shrena-patel/shrena-patel-portfolio)
