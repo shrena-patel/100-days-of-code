@@ -149,8 +149,8 @@
 ### Day 12: Friday 20 November 2020
 #### Working on personal porfolio
 
-**Today's Progress**: 
+**Today's Progress**: Worked on stlying of the portfolio and added nav component.
 
-**Thoughts:** 
+**Thoughts:** Need to work on making the site responsive.
 
 **Link to work:** [Portfolio page](https://github.com/shrena-patel/shrena-patel-portfolio)
