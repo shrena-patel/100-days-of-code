@@ -154,3 +154,14 @@
 **Thoughts:** Need to work on making the site responsive.
 
 **Link to work:** [Portfolio page](https://github.com/shrena-patel/shrena-patel-portfolio)
+
+---
+
+### Day 13: Monday 23 November 2020
+#### Working on personal porfolio
+
+**Today's Progress**: Changed the styling and layout on a new branch.
+
+**Thoughts:** I want to make the site feel and look more 'me', so have made it more minimalist. Next I will add my portfolio and CV.
+
+**Link to work:** [Portfolio page](https://github.com/shrena-patel/shrena-patel-portfolio)
