@@ -165,3 +165,14 @@
 **Thoughts:** I want to make the site feel and look more 'me', so have made it more minimalist. Next I will add my portfolio and CV.
 
 **Link to work:** [Portfolio page](https://github.com/shrena-patel/shrena-patel-portfolio)
+
+--- 
+
+### Day 14: Tuesday 24 November 2020
+#### Working on personal porfolio
+
+**Today's Progress**: Merged new stlying into master, made some minor changes.
+
+**Thoughts:** Didn't get the chance to work on too much today.
+
+**Link to work:** [Portfolio page](https://github.com/shrena-patel/shrena-patel-portfolio)
